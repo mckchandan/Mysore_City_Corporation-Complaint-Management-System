@@ -33,3 +33,4 @@ The Admin have the following management functionalities :
 •	View the complete details about the complaint
 •	Allocating the Complaint 
 
+This Project is divided into two sub folder due to the size . Please download and Extract the zip using 7z 
