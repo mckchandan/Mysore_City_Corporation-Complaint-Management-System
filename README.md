@@ -43,8 +43,11 @@ Complaint Management System provides an online way of solving the problems faced
 •	Adding category and sub-categories for the sevices . 
 
 2.Worker Function
+
 •	View the Profile
+
 •	View the complete details about the complaint
+
 •	Allocating the Complaint 
 
 This Project is divided into two sub folder due to the size . Please download and Extract the zip using 7z 
